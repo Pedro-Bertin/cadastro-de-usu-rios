@@ -2,6 +2,8 @@
 
 O intuito do projeto é fazer um backend e um frontend e fazer a integração de ambos. Fazer uma API e fazer meu frontend consumir essa API.
 
+projeto foi feito com React.
+
 OBS: Projeto pode passar por atualizações futuras.
 
 ## Instalação
